@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @1402-Asma
+                                         “The computer was born to solve problems that did not exist before.”
+
+- 👋 Hi, I’m Asma
 - 👀 I’m interested in Cybersecurity and AI
 - 🌱 I’m currently learning Computer science
 - 💞️ I’m looking to collaborate with a lot of professional company
