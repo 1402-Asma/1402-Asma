@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Asma
 - 👀 I’m interested in Cybersecurity and AI
-- 🌱 I’m currently learning Computer science
+- 🌱 I’m Computer science fresh graduate
 - 💞️ I’m looking to collaborate with a lot of professional company
 - 📫 How to reach me asmaabuhassanien@gmail.com
 
